@@ -1,0 +1,245 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #7993ed;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 10px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+.daniel-s-online-resume {
+  color: #000000;
+  text-align: center;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 502px;
+  top: 32.68px;
+  width: 434.92px;
+  height: 80.41px;
+}
+.home {
+  color: #000000;
+  text-align: center;
+  font-family: "InknutAntiqua-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 20px;
+  top: 23px;
+  width: 92.28px;
+  height: 42.12px;
+}
+.about2 {
+  color: #000000;
+  text-align: center;
+  font-family: "InknutAntiqua-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 112.28px;
+  top: 23px;
+  width: 78.54px;
+  height: 42.12px;
+}
+.portfolio {
+  color: #000000;
+  text-align: center;
+  font-family: "InknutAntiqua-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 215.37px;
+  top: 23px;
+  width: 104.07px;
+  height: 49.78px;
+}
+.dowload-cv {
+  color: #000000;
+  text-align: center;
+  font-family: "InknutAntiqua-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-decoration: underline;
+  position: absolute;
+  left: 1273.7px;
+  top: 23px;
+  width: 145.3px;
+  height: 49.78px;
+}
+.ellipse-4 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 472px;
+  height: 683px;
+  position: absolute;
+  left: 465px;
+  top: 170px;
+}
+.image-2 {
+  width: 472px;
+  height: 683px;
+  position: absolute;
+  left: 465px;
+  top: 170px;
+  object-fit: cover;
+}
+.about-me {
+  color: #000000;
+  text-align: center;
+  font-family: "InriaSerif-Light", sans-serif;
+  font-size: 96px;
+  font-weight: 300;
+  text-transform: uppercase;
+  position: absolute;
+  left: 355px;
+  top: 307px;
+  width: 699px;
+  height: 184px;
+}
+.frame-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 518px;
+  top: 661px;
+  overflow: hidden;
+}
+.i-m-a-bsit-student-at-dll-college-passionate-about-technology-and-eager-to-learn-i-excel-in-problem-solving-and-enjoy-collaborating-with-others-with-a-strong-foundation-in-programming-and-networking-i-m-motivated-to-make-a-positive-impact-in-the-tech-industry {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 400;
+  text-transform: lowercase;
+  position: absolute;
+  left: 40px;
+  top: 207px;
+  width: 424px;
+  height: 123px;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 237px;
+  height: 104px;
+  position: absolute;
+  left: 100px;
+  top: 103px;
+}
+.my-backgrounds {
+  color: #000000;
+  text-align: left;
+  font-family: "ImFellGreatPrimerSc-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 103px;
+  top: 141px;
+}
+.ellipse-5 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 243px;
+  height: 104px;
+  position: absolute;
+  left: 1114px;
+  top: 472px;
+}
+.view-portfolio {
+  color: #000000;
+  text-align: left;
+  font-family: "ImFellGreatPrimerSc-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-decoration: underline;
+  position: absolute;
+  left: 1120px;
+  top: 512px;
+}
+.social-media {
+  position: absolute;
+  inset: 0;
+}
+.social-media2 {
+  width: 813.19px;
+  height: 44px;
+  position: static;
+}
+.danielgalao-17-gmail-com {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  left: 33px;
+  top: 932px;
+  width: 314px;
+  height: 33px;
+}
+.accounts {
+  width: 257.19px;
+  height: 43.64px;
+  position: static;
+}
+.instagram-1 {
+  width: 39.19px;
+  height: 42px;
+  position: absolute;
+  left: 589px;
+  top: 921px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.facebook-1 {
+  width: 40.73px;
+  height: 43.64px;
+  position: absolute;
+  left: 660px;
+  top: 921px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.twitter-1 {
+  width: 39.96px;
+  height: 42.82px;
+  position: absolute;
+  left: 734px;
+  top: 921.35px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.google-1 {
+  width: 39.19px;
+  height: 42px;
+  position: absolute;
+  left: 807px;
+  top: 921px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.contacts {
+  color: #000000;
+  text-align: center;
+  font-family: "InknutAntiqua-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 336px;
+  top: 23px;
+  width: 104.07px;
+  height: 49.78px;
+}
